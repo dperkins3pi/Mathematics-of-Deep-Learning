@@ -1,4 +1,4 @@
-This repository contains various labs from MATH 522, a course on the mathematics of Deep Learning at BYU. The most significant work is the file MathematicsOfDeepQLearning.ipynb. This is the code for the research paper stored as Paper_DeepQLearning.pdf. In this project, I worked in a groupd of 3 to better understand the effects of the epsilon decay schedules and prioritized experience replay in deep Q-learning algorithms.
+This repository contains various labs from MATH 522, a course on the mathematics of Deep Learning at BYU. The most significant work is the file Paper_DeepQLearning.pdf (with the corresponding code at MathematicsOfDeepQLearning.ipynb). In this project, I worked in a groupd of 3 to better understand the effects of the epsilon decay schedules and prioritized experience replay in deep Q-learning algorithms.
 
 **Research Project Abstract**
 
